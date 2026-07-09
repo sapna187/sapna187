@@ -42,8 +42,5 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapna187&show_icons=true&locale=en&layout=compact" alt="sapna187" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sapna187&show_icons=true&locale=en" alt="sapna187" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.vercel.app/?user=sapna187&" alt="sapna187" /></p>
+<br />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sapna187&" alt="sapna187" /></p>
