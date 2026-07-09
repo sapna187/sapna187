@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://rrtutors.com/uploads/code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapna187&label=Profile%20views&color=0e75b6&style=flat" alt="sapna187" /> </p>
 
-- 🔭 I’m currently working with **Champions Management Services Pte Ltd**
+- 🔭 I’m currently working with **Cleopatra Inc.**
 
 - 🌱 I’m currently learning **Agentic AI Development**
 
