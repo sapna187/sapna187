@@ -1,4 +1,4 @@
-[![MasterHead](https://img.magnific.com/premium-photo/cartoon-girl-with-glasses-working-digital-workstation-surrounded-by-vibrant-data-screens-charts_124865-97945.jpg?semt=ais_hybrid&w=740&q=80)](https://github.com/sapna187)
+[![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://github.com/sapna187)
 <h1 align="center">Hi 👋, I'm Sapna</h1>
 <h3 align="center">I am a Software Engineer (App & Web), looking forward to explore global career opportunities</h3>
 <img align="right" alt="Coding" width="400" src="https://rrtutors.com/uploads/code.gif">
