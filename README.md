@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://github.com/sapna187)
+[![MasterHead](https://drive.google.com/file/d/1Uxo5HaCCpGsWteqVtpNmO8Ffan0X-mw1/view?usp=sharing)](https://github.com/sapna187)
 <h1 align="center">Hi 👋, I'm Sapna</h1>
 <h3 align="center">I am a Software Engineer (App & Web), looking forward to explore global career opportunities</h3>
 <img align="right" alt="Coding" width="400" src="https://rrtutors.com/uploads/code.gif">
@@ -42,8 +42,7 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapna187&show_icons=true&locale=en&layout=compact" alt="sapna187" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sapna187&show_icons=true&locale=en" alt="sapna187" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sapna187&" alt="sapna187" /></p>
+<br/>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=sapna187&theme=default" alt="sapna187's GitHub Streak" />
+</p>
